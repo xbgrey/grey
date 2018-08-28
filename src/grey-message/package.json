@@ -1,0 +1,19 @@
+{
+    "name": "grey-message",
+    "version": "1.0.0",
+    "description": "消息器",
+    "main": "index.js",
+    "scripts": {
+        "publish": "npm publish bin",
+        "tsc": "tsc -p ."
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [
+    ],
+    "bugs": {},
+    "dependencies": {}
+}

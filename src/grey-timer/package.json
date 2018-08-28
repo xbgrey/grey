@@ -1,0 +1,21 @@
+{
+    "name": "grey-timer",
+    "version": "1.0.1",
+    "description": "计时器",
+    "main": "index.js",
+    "scripts": {
+        "publish": "npm publish bin",
+        "tsc": "tsc -p ."
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [],
+    "bugs": {},
+    "dependencies": {
+        "grey-heartbeat": "^1.0.0",
+        "grey-message": "^1.0.0"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "grey-heartbeat",
+    "version": "1.0.0",
+    "description": "心跳管理",
+    "main": "index.js",
+    "scripts": {
+        "publish": "npm publish bin",
+        "tsc": "tsc -p ."
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [
+        "xxxx"
+    ],
+    "bugs": {},
+    "dependencies": {
+        "grey-message": "^1.0.0"
+    }
+}

@@ -21,5 +21,7 @@
   "bugs": {
     "url": "https://github.com/xbgrey/grey/issues"
   },
-  "homepage": "https://github.com/xbgrey/grey#readme"
+  "homepage": "https://github.com/xbgrey/grey#readme",
+  "dependencies": {
+  }
 }
