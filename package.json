@@ -1,0 +1,25 @@
+{
+  "name": "grey",
+  "version": "1.0.0",
+  "description": "* grey-events 兼容原生事件 * grey-heartbeat 心跳 * grey-message 消息器 * grey-timer 计时器",
+  "main": "index.js",
+  "bin": {
+    "grey": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbgrey/grey.git"
+  },
+  "keywords": [
+    "xxxx"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbgrey/grey/issues"
+  },
+  "homepage": "https://github.com/xbgrey/grey#readme"
+}

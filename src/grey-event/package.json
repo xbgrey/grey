@@ -1,0 +1,20 @@
+{
+    "name": "grey-event",
+    "version": "1.0.1",
+    "description": "兼容原生事件",
+    "main": "index.js",
+    "scripts": {
+        "publish": "npm publish bin",
+        "tsc": "tsc -p ."
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [
+        "xxxx"
+    ],
+    "bugs": {},
+    "dependencies": {}
+}

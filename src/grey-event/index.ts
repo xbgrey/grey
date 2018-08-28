@@ -33,7 +33,7 @@ export function getElement(event: any) {
     return event.target || event.srcElement;
 }
 
-//阻止事件冒泡
+/** 阻止事件冒泡 */
 export function preventDefault(event: any) {
     if (event.preventDefault) {
         event.preventDefault();
@@ -42,7 +42,7 @@ export function preventDefault(event: any) {
     }
 }
 
-//阻止事件的默认行为
+/** 阻止事件的默认行为 */
 export function stopPropagation(event: any) {
     if (event.stopPropagation) {
         event.stopPropagation();
