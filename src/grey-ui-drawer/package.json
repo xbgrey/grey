@@ -1,6 +1,6 @@
 {
     "name": "grey-ui-drawer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "抽屉",
     "main": "index.js",
     "scripts": {
@@ -15,8 +15,10 @@
     "keywords": [],
     "bugs": {},
     "dependencies": {
-        "@types/react": "^16.4.14",
         "antd": "3.6.0",
-        "react": "^16.5.0"
+        "react": "^16.3.1"
+    },
+    "devDependencies":{
+        "@types/react": "^16.3.5"
     }
 }
