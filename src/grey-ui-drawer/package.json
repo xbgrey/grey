@@ -1,0 +1,22 @@
+{
+    "name": "grey-ui-drawer",
+    "version": "1.0.0",
+    "description": "抽屉",
+    "main": "index.js",
+    "scripts": {
+        "publish": "npm publish bin",
+        "tsc": "tsc -p ."
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [],
+    "bugs": {},
+    "dependencies": {
+        "@types/react": "^16.4.14",
+        "antd": "3.6.0",
+        "react": "^16.5.0"
+    }
+}
